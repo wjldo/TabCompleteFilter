@@ -1,6 +1,6 @@
 [![TabCompleteFilter](https://i.imgur.com/uCl2hUN.png)](https://www.spigotmc.org/resources/tabcompletefilter.75208/)
 
-## Wiki
+## Wiki 
 
 Guides and info about this plugin can be found here: [Wiki](https://lees-plugins.gitbook.io/tabcompletefilter/)
 
